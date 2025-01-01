@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates a common off-by-one error when iterating over an array. The error arises due to incorrect loop bounds.  The bug.java file shows the erroneous code, and bugSolution.java provides the corrected version.
